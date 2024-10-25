@@ -1,2 +1,4 @@
-HI my name is Samarth, yo dfivadncn
+Hi my name is Samarth, I pushed this repository through my windows cmd using the 
+git remote add origin and git push origin master command
+
 
